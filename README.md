@@ -12,7 +12,7 @@ Tutorial de como usar o git, criado pelo Jhonatan da Dev Aprender.
 - git remote add origin link-do-seu-repositorio: define para onde o seu código será enviado.
 - git push --set-upstream origin nome-branch: define para qual branch o seu código será enviado.
 - git reflog: verifica o histórico de atualizações.
-- git branch: exibe quais branches estão disponíveis e qual delas você se encontra.
+- git branch: exibe quais branches estão disponíveis e em qual delas você se encontra.
 - git checkout nome-branch: alterna de branch.
 - git checkout -b novo-nome-branch branch-principal: cria uma nova branch, tendo como base a branch principal.
 
