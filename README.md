@@ -1,5 +1,5 @@
 # projeto1-devaprender
-Tutorial de como usar o git, criado pelo jhonatan da Dev Aprender.
+Tutorial de como usar o git, criado pelo Jhonatan da Dev Aprender.
 
 # Conceitos básico de GIT
 - git --help: exibe uma lista dos comandos a serem usados.
