@@ -2,7 +2,7 @@
 Tutorial de como usar o git, criado pelo jhonatan da Dev Aprender.
 
 # Conceitos básico de GIT
-git --help: exibe uma lista dos comandos a serem usados.
+<p>git --help: exibe uma lista dos comandos a serem usados.
 git init: inicializa um repositório.
 git status: verifica o status do repositório.
 git add "nome-arquivo": adiciona o arquivo ao controle de versão.
